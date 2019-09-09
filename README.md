@@ -4,6 +4,8 @@ Downloads mp3 files from https://incompetech.filmmusic.io/
 ## Overview
 This command line program will download all the songs from every page on the url provided.
 
+Head over to the [releases](https://github.com/piggeywig2000/IncompetechDownloader/releases) page to download it.
+
 ## Installation and Usage
 Download [.NET Core 2.2](https://dotnet.microsoft.com/download/dotnet-core/2.2) from here if you don't already have it installed - if you don't plan on developing .NET Core apps yourself, choose the Runtime over the SDK.
 
